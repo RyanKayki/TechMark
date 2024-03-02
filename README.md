@@ -31,8 +31,7 @@ O sistema terá as seguintes funcionalidades:
 - **Administração de Produtos**: O administrador do sistema pode:
   - Cadastrar novos produtos.
   - adicionar mais produtos existentes.
-  - Consultar produtos.
-  - adicionar mais produtos existentes.
+  - Consultar produto.
   - venda dos produtos.
   - gerar lista de todos os produtos.
 
